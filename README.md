@@ -1,4 +1,4 @@
 # QXQ YLC 2024 Capstone Project
 
-by Priyanuj Kashyap
-\n Student ID: 3824_Kashyap
+by Priyanuj Kashyap<br>
+Student ID: 3824_Kashyap
